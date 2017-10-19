@@ -18,6 +18,7 @@ namespace CoolBreeze
             this.CityName = "Amsterdam";
             this.CountryCode = "HL";
             this.CurrentConditions = new WeatherInformation();
+
         }
 
         private LocationType _locationType;
